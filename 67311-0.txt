@@ -13,7 +13,7 @@ Title: The Cruise of the Pelican
 
 Author: Henry Bedford-Jones
 
-Release Date: June 4, 2022 [eBook #67311]
+Release Date: February 3, 2022 [eBook #67311]
 
 Language: English
 
@@ -792,7 +792,7 @@ He is on the third _étage_--what you call--yes, flight!  Upstairs."
 
 "Good, Dumont."  Ericksen ran his fingers through his tousled red
 hair.  "We've made quick work of it, eh?  Got here two days ago, and
-ready to slip our cable to-morrow night.  'Move sharp,' says the
+ready to slip our cable to-morrow night.  'Move sharp,,' says the
 Skipper; 'crack on all sail!'  And we've done it.  Hey?  You've got
 your stuff all complete?"
 
@@ -1002,7 +1002,7 @@ entered his room he found Dumont awaiting him.
 
 "You--here!  What's up, Frenchy?"
 
-Smilingly, Dumont extended him a note.  Ericksen seized it and examined
+Smilingly, Dumont extended him a note Ericksen seized it and examined
 it with quick approval.
 
 "It was very easily done, my friend," said Dumont, yawning sleepily.
@@ -1029,7 +1029,7 @@ instead of havin' her to deal with, now we have him too?  Don't it
 mean that he's signed up for a share in old Hathaway's leavin's?  And
 if we don't scuttle him, then he'll scuttle us!"
 
-Dumont caressed his moustache, his dark eyes narrowed and alert.
+Dumont caressed his moustache, his dark yes narrowed and alert.
 
 "_Mille tonnerre_!" he ejaculated slowly.  "You are right.  He is the
 old man's son-in-law, eh?  Ah, but you have the head, my friend!  You
@@ -1278,7 +1278,7 @@ words.  The chloroform had not been intended merely to knock him out;
 it had been intended to kill him!  Why?
 
 Stooping, he ran swiftly through the contents of Dumont's pockets.
-He found an automatic, the blackjack which had struck him and a thin
+He found an automatic, the bluejack which had struck him and a thin
 keen knife.  He found a wad of yellow-backed bills, which he stuck
 into his own pocket with a chuckle.  He found no letters, nothing
 else at all--except an envelope such as is issued at railroad ticket
@@ -1532,7 +1532,7 @@ wore a fringe of white hair and whisker, stood six feet two and was
 muscled like a bull moose; they said he had been known to take a
 man's arm in his two hands and break it like a rotten stick.  His
 face was heavy and flat, the eyes small and bright and deeply set.
-His nose had been crushed and had a crooked twist.
+His nose had been crushed and had a crooked twist
 
 One of the boat-steerers, Ericksen, was gone from the ship.  The
 other, like the mate, was a Cape Verde man; his name was a Portuguese
@@ -1800,7 +1800,7 @@ always, and if only Mother were here--she never knew that you were
 alive."
 
 Again the mouth of Miles Hathaway opened spasmodically, but he could
-not speak.  His eyes were horrible to see, so dumbly eloquent were they
+not speak His eyes were horrible to see, so dumbly eloquent were they
 of the useless will of the man.  Tom Dennis could not bear the scene
 further, and touched the arm of Mrs. Pontifex.
 
@@ -1884,8 +1884,8 @@ them to appear in the saloon cabin at four bells sharp."
 "Yes, sir."
 
 "And, steward!  You might ask the Missus for a bit of raw blubber.
-Eat it raw, steward, and it'll cure what's ailing you.  Nice fat
-whale blubber----"
+Eat it raw, steward, and it'll cure what's ailing you.  fat whale
+blubber----"
 
 "Yes, sir," said the steward faintly, his cheeks turning green.  He
 fled in haste.
@@ -2568,7 +2568,7 @@ see?  And by that time, little Tommy will have spoiled their game."
 "Don't know yet," said Dennis cheerfully.  "If I----"
 
 "Tom!  What was it that Pontifex said to you about reading Dumas?
-Why, I know just what they got that phonograph for--oh, I wish I'd
+Why, I I know just what they got that phonograph for--oh, I wish I'd
 known about it!"
 
 "You do?  What?"
@@ -2781,7 +2781,7 @@ hold us, or hold father, as hostages."
 
 Dennis nodded, frowningly.  After a moment he rose.
 
-"Dear, please go to your father at once.  Tell him that it is
+"Dear, please go to your father at once, Tell him that it is
 absolutely essential that he give Pontifex the correct location of
 that wreck.  Tell him that I shall handle the entire matter in such a
 way that Pontifex will ultimately get his just desserts; but for the
